@@ -1,0 +1,1 @@
+This is an example implementation of the SHA-256 secure hashing algorithm in the C language, including an example for generating the k constants and initial hash values.
